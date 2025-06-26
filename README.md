@@ -1,2 +1,2 @@
 # EvolutionaryGamesToolkit
-A Matlab toolbox aimed at the study of (evolutionary games
+A Matlab toolbox aimed at the study of evolutionary games.
