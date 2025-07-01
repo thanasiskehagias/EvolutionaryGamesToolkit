@@ -1,6 +1,6 @@
 # EvolutionaryGamesToolkit
 
-![Helicopter](https://github.com/thanasiskehagias/EvolutionaryGamesToolkit/x0501AMrkBRSTG.png?raw=true)  
+![STG](https://github.com/thanasiskehagias/EvolutionaryGamesToolkit/blob/main/x0501AMrkBRSTG.png?raw=true)  
 
 ## Description
 The Evolutionary Games Toolkit (EGT) is a Matlab toolbox aimed at the study of (obviously) evolutionary
